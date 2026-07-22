@@ -5,7 +5,7 @@ Frontend-first AI dashboard that turns vague engineering requests into prioritiz
 
 A frontend-first AI workflow dashboard that turns vague engineering tasks into structured, prioritized, and assignable work items.
 
-![Smart Triage Dashboard screenshot](public/screenshots/Dashboard.png)
+Dashboard.png
 
 ## Overview
 
